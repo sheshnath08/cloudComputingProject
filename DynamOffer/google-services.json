@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237207841993",
+    "firebase_url": "https://testproject-b07db.firebaseio.com",
+    "project_id": "testproject-b07db",
+    "storage_bucket": "testproject-b07db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237207841993:android:33b21e53e92c4b9a",
+        "android_client_info": {
+          "package_name": "com.sheshnath.dynamoffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237207841993-ovmreethsqkdbbss4cusosr8f5jae0vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYKjM2aO7tXJHiyVGDLW-8tB9QDljv-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
